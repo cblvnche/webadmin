@@ -1,4 +1,4 @@
-
+WebAdmin is a small open source web panel for managing your server from a browser.
 
 <b>Installation guide:</b>
 
